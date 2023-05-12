@@ -1,0 +1,32 @@
+<section>
+        <div class="container py-5">
+            <div class="row row-eq-height downloads">
+
+                                <div class="col-md-4 mt-5">
+                    <a href="https://drive.google.com/file/d/1ribFoBJjKcx4bOECHOZEzQ79PNzLmA5h/view?usp=sharing" class="card shadow-sm px-3 py-4 h-100 wow zoomIn" data-wow-delay="0.4s">
+                        <span><i class="fa fa-download pr-3"></i>Polo Forest Weekend Trekking Camp</span>
+                    </a>
+                </div>
+                                <div class="col-md-4 mt-5">
+                    <a href="https://drive.google.com/file/d/1VTcXYpb4t9YAYv2SorpvT0lgVf9dwHQ0/view?usp=sharing" class="card shadow-sm px-3 py-4 h-100 wow zoomIn" data-wow-delay="0.4s">
+                        <span><i class="fa fa-download pr-3"></i>Saputara Weekend Adventure Camp</span>
+                    </a>
+                </div>
+                                <div class="col-md-4 mt-5">
+                    <a href="https://drive.google.com/file/d/1SWZ1rgau3L5rTrFkHwG7WYYP2BjCbA6q/view?usp=share_link" class="card shadow-sm px-3 py-4 h-100 wow zoomIn" data-wow-delay="0.4s">
+                        <span><i class="fa fa-download pr-3"></i>Dalhousie Adventure &amp; Trekking Camp</span>
+                    </a>
+                </div>
+                                <div class="col-md-4 mt-5">
+                    <a href="https://drive.google.com/file/d/14bj7NWTduNSc1O6H4UwUnCS7ijXCRCKJ/view?usp=share_link" class="card shadow-sm px-3 py-4 h-100 wow zoomIn" data-wow-delay="0.4s">
+                        <span><i class="fa fa-download pr-3"></i>Manali Summer Trekking Camp</span>
+                    </a>
+                </div>
+                                <div class="col-md-4 mt-5">
+                    <a href="https://drive.google.com/file/d/1K32Dr9Lpu5QYjs9ZgFN-1VQHv17wUG3a/view?usp=share_link" class="card shadow-sm px-3 py-4 h-100 wow zoomIn" data-wow-delay="0.4s">
+                        <span><i class="fa fa-download pr-3"></i>The Leh - Ladakh Expedition</span>
+                    </a>
+                </div>
+            </div>
+        </div>
+    </section>
